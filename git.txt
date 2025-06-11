@@ -1,3 +1,4 @@
 #!/bin/blash
 
 echo " demo document "
+cal
